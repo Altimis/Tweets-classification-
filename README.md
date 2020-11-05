@@ -1,7 +1,7 @@
 # Tweets-classification-
 Prediction of tweets topics (sports or politics)
 
-In this project, I tried to follow two ways of solving this approaches to solve this classification problem. 
+In this project, I tried to follow two approaches to solve this classification problem. 
 
 The first one is by using the tf-idf technique following by applying Multinomial Naive Bayes and SVM modles. 
 
